@@ -10,6 +10,8 @@ startup. Após o número total de rodadas, o jogo calcula um score final e apres
 
 ---
 
+---
+
 # Arquitetura
 
 ---
@@ -19,15 +21,15 @@ PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
 ├── .idea/
 ├── Projeto StartupGame/
 │   ├── src/
-│   │   ├── actions/
+│   │   ├── actions/                               
 │   │   │   ├── CortarCustosStrategy.java
-│   │   │   ├── DecisaoFactory.java
-│   │   │   ├── DecisaoStrategy.java
+│   │   │   ├── DecisaoFactory.java               (fábrica)
+│   │   │   ├── DecisaoStrategy.java              (interface Strategy)
 │   │   │   ├── EquipeStrategy.java
 │   │   │   ├── InvestidoresStrategy.java
 │   │   │   ├── MarketingStrategy.java
 │   │   │   └── ProdutoStrategy.java
-│   │   ├── config/
+│   │   ├── config/                               (leitura de game.properties)
 │   │   │   └── Config.java
 │   │   ├── engine/
 │   │   │   ├── GameEngine.java
@@ -48,7 +50,7 @@ PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
 │   │   │   └── game.properties
 │   │   ├── ui/
 │   │   │   ├── ConsoleApp.java
-│   │   ├── Main.java
+│   │   ├── Main.java                           (iniciia ConsoleApp)
 │   ├── Projeto StartupGame.iml
-└─ README.md
+└─ README.md  (como compilar e rodar)        
 ```
