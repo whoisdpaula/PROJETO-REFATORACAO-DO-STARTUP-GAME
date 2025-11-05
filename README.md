@@ -49,6 +49,6 @@ PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
 │   │   ├── ui/
 │   │   │   ├── ConsoleApp.java
 │   │   ├── Main.java
-├── README.md
-└── Projeto StartupGame.iml
+│   ├── Projeto StartupGame.iml
+└─ README.md
 ```
