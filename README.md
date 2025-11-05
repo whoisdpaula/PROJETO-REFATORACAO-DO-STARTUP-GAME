@@ -13,6 +13,7 @@ startup. Após o número total de rodadas, o jogo calcula um score final e apres
 # Arquitetura
 
 ---
+```
 PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
 ├── .devcontainer/
 ├── .idea/
@@ -50,3 +51,4 @@ PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
 │   │   ├── Main.java
 ├── README.md
 └── Projeto StartupGame.iml
+```
