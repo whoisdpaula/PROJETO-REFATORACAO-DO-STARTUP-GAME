@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Projeto StartupGame/src/DecisaoFactory/DecisaoFactory.iml" filepath="$PROJECT_DIR$/Projeto StartupGame/src/DecisaoFactory/DecisaoFactory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/PROJETO-REFATORACAO-DO-STARTUP-GAME.iml" filepath="$PROJECT_DIR$/.idea/PROJETO-REFATORACAO-DO-STARTUP-GAME.iml" />
       <module fileurl="file://$PROJECT_DIR$/Projeto StartupGame/Projeto StartupGame.iml" filepath="$PROJECT_DIR$/Projeto StartupGame/Projeto StartupGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
     </modules>
