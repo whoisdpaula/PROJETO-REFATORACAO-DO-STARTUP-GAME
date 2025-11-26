@@ -53,3 +53,11 @@ PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
 │   ├── Projeto StartupGame.iml
 └─ README.md  (como compilar e rodar)        
 ```
+
+--- 
+
+🕹️ 3. Instruções de Jogo
+
+A. Fluxo Básico
+
+O jogo é dividido em rodadas, e em cada rodada, você tem um número limitado de decisões
