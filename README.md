@@ -22,13 +22,13 @@ PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
 │   ├── src/
 │   │   ├── actions/                               
 │   │   │   ├── CortarCustosStrategy.java
-│   │   │   ├── DecisaoFactory.java               (fábrica)
-│   │   │   ├── DecisaoStrategy.java              (interface Strategy)
+│   │   │   ├── DecisaoFactory.java               
+│   │   │   ├── DecisaoStrategy.java              
 │   │   │   ├── EquipeStrategy.java
 │   │   │   ├── InvestidoresStrategy.java
 │   │   │   ├── MarketingStrategy.java
 │   │   │   └── ProdutoStrategy.java
-│   │   ├── config/                               (leitura de game.properties)
+│   │   ├── config/                              
 │   │   │   └── Config.java
 │   │   ├── engine/
 │   │   │   ├── GameEngine.java
