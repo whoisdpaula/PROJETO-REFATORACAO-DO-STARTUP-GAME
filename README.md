@@ -55,7 +55,7 @@ PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
 ```
 
 --- 
-# 🕹️ 4. Modos de Jogo e Funcionalidades
+# 🕹️ Modos de Jogo e Funcionalidades
 O ConsoleApp oferece um menu de escolha no início de cada rodada:
 
 [1] Manual: O jogador escolhe cada decisão (Marketing, Equipe, Cortar Custos, Investidores) até esgotar o limite.
