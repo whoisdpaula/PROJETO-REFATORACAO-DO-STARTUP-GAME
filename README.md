@@ -61,3 +61,35 @@ PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
 A. Fluxo Básico
 
 O jogo é dividido em rodadas, e em cada rodada, você tem um número limitado de decisões
+
+B. Modos de Decisão (ConsoleApp)
+
+Ao iniciar cada rodada, o ConsoleApp oferece três opções para o modo de jogo:
+
+Opção
+
+Modo
+
+Descrição
+
+[1]
+
+Manual
+
+O jogador escolhe sequencialmente cada uma das ações disponíveis (Marketing, Equipe, Cortar Custos, Investidores) até esgotar o limite de decisões.
+
+[2]
+
+Bot (Automático)
+
+O sistema aciona a BotStrategy para executar automaticamente todas as decisões permitidas, tomando ações baseadas em uma IA simples (incluindo lógica de recuperação de caixa).
+
+[0]
+
+Pular Rodada
+
+Nenhuma decisão é tomada. A rodada é encerrada e a Startup recebe a receita base.
+
+C. Geração de Relatório
+
+Ao final do jogo (após o término da última rodada), o ReportService gera um arquivo CSV contendo o histórico detalhado de todas as ações e estados da Startup. Este arquivo será salvo no diretório raiz de execução com um nome baseado no nome da Startup (ex: historico_TechGrow.csv).
