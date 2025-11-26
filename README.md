@@ -56,7 +56,7 @@ PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
 
 --- 
 
-🕹️ 3. Instruções de Jogo
+# 🕹️ 3. Instruções de Jogo
 
 A. Fluxo Básico
 
