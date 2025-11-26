@@ -49,7 +49,7 @@ PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
 │   │   │   └── game.properties
 │   │   ├── ui/
 │   │   │   ├── ConsoleApp.java
-│   │   ├── Main.java                           (iniciia ConsoleApp)
+│   │   ├── Main.java                          
 │   ├── Projeto StartupGame.iml
 └─ README.md  (como compilar e rodar)        
 ```
