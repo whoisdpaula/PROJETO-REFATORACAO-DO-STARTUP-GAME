@@ -1,4 +1,4 @@
-# PROJETO: REFATORAÇÃO DO STARTUP GAME 
+# 🎮 PROJETO: REFATORAÇÃO DO STARTUP GAME 🎮 
 ---
 # Descrição do Game
 O Startup Game é uma simulação em turnos (rodadas) onde cada usuário gerencia uma startup. Em cada
