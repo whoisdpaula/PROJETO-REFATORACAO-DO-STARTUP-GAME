@@ -72,6 +72,9 @@ No encerramento do jogo, a aplicação gera um arquivo CSV (historico_[NomeStart
 
 
 
-https://github.com/user-attachments/assets/846bdcf3-015e-492b-81d5-00fb2735a1a3
+
+
+Uploading Video Demonstrativo.mp4…
+
 
 
