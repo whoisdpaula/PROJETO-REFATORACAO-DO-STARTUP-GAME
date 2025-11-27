@@ -16,42 +16,52 @@ startup. Após o número total de rodadas, o jogo calcula um score final e apres
 ---
 ```
 PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
+.
 ├── .devcontainer/
 ├── .idea/
-├── Projeto StartupGame/
-│   ├── src/
-│   │   ├── actions/                               
-│   │   │   ├── CortarCustosStrategy.java
-│   │   │   ├── DecisaoFactory.java               
-│   │   │   ├── DecisaoStrategy.java              
-│   │   │   ├── EquipeStrategy.java
-│   │   │   ├── InvestidoresStrategy.java
-│   │   │   ├── MarketingStrategy.java
-│   │   │   └── ProdutoStrategy.java
-│   │   ├── config/                              
-│   │   │   └── Config.java
-│   │   ├── engine/
-│   │   │   ├── GameEngine.java
-│   │   │   └── ScoreService.java
-│   │   ├── model/
-│   │   │   └── vo/
-│   │   │   │   ├── Dinheiro.java
-│   │   │   │   ├── Humor.java
-│   │   │   │   ├── Percentual.java
-│   │   │   ├── Deltas.java
-│   │   │   ├── Startup.java
-│   │   ├── persistencia/
-│   │   │   ├── DataSourceProvider.java
-│   │   │   ├── DecisaoAplicadaRepository.java
-│   │   │   ├── RodadaRepository.java
-│   │   │   └── StartupRepository.java
-│   │   ├── resources/
-│   │   │   └── game.properties
-│   │   ├── ui/
-│   │   │   ├── ConsoleApp.java
-│   │   ├── Main.java                          
-│   ├── Projeto StartupGame.iml
-└─ README.md  (como compilar e rodar)        
+├── out/
+│
+└── Projeto StartupGame/
+    ├── main/
+    │   ├── actions/
+    │   │   ├── BotStrategy.java
+    │   │   ├── CortarCustosStrategy.java
+    │   │   ├── DecisaoFactory.java
+    │   │   ├── DecisaoStrategy.java
+    │   │   ├── EquipeStrategy.java
+    │   │   ├── InvestidoresStrategy.java
+    │   │   ├── MarketingStrategy.java
+    │   │   └── ProdutoStrategy.java
+    │   ├── config/
+    │   │   └── Config.java
+    │   ├── engine/
+    │   │   ├── GameEngine.java
+    │   │   └── ScoreService.java
+    │   ├── exception/
+    │   │   ├── DomainException.java
+    │   │   ├── PersistenceException.java
+    │   │   └── SaldoInsuficienteException.java
+    │   ├── model/
+    │   │   ├── vo/
+    │   │   │   ├── Deltas.java
+    │   │   │   └── Rodada.java
+    │   │   └── Startup.java
+    │   ├── persistencia/
+    │   │   ├── DataSourceProvider.java
+    │   │   ├── DecisaoAplicadaRepository.java
+    │   │   ├── RodadaRepository.java
+    │   │   └── StartupRepository.java
+    │   ├── resources/
+    │   ├── service/
+    │   │   └── ReportService.java
+    │   └── ui/
+    │       ├── ConsoleApp.java
+    │       └── Main.java
+    ├── historico_lais.csv
+    ├── Projeo StartupGame.iml
+    ├── README.md
+    ├── startupdb.mv.db
+    └── startupdb.trace.db    
 ```
 
 --- 
