@@ -67,3 +67,11 @@ O ConsoleApp oferece um menu de escolha no início de cada rodada:
 Relatório Final
 
 No encerramento do jogo, a aplicação gera um arquivo CSV (historico_[NomeStartup].csv) contendo o histórico detalhado de todas as ações e os valores da Startup ao longo do tempo. Este arquivo será salvo no diretório de execução.
+
+---
+
+
+
+https://github.com/user-attachments/assets/846bdcf3-015e-492b-81d5-00fb2735a1a3
+
+
