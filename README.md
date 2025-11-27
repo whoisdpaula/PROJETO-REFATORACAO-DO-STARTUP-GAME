@@ -72,9 +72,6 @@ Relatório Final
 
 No encerramento do jogo, a aplicação gera um arquivo CSV (historico_[NomeStartup].csv) contendo o histórico detalhado de todas as ações e os valores da Startup ao longo do tempo. Este arquivo será salvo no diretório de execução.
 
-# 👩‍💻 Autora
-
-Lais De Paula Carneiro
 
 
 
@@ -86,6 +83,8 @@ Lais De Paula Carneiro
 https://github.com/user-attachments/assets/0e9f8733-cc2b-4401-810b-bc71a4b15fb8
 
 
+# 👩‍💻 Autora
 
+Lais De Paula Carneiro
 
 
