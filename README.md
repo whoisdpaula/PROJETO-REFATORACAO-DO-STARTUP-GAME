@@ -11,7 +11,7 @@ startup. Após o número total de rodadas, o jogo calcula um score final e apres
 
 ---
 
-# Arquitetura
+# 🌳 Arquitetura
 
 ---
 ```
