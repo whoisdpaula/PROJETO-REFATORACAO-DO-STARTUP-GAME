@@ -6,10 +6,6 @@ Produto, Investidores e Cortar Custos. As decisões impactam Caixa, Receita Base
 startup. Após o número total de rodadas, o jogo calcula um score final e apresenta o ranking
 
 
-
-
----
-
 # 🌳 Arquitetura
 
 ```
