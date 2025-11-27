@@ -6,7 +6,7 @@ Produto, Investidores e Cortar Custos. As decisões impactam Caixa, Receita Base
 startup. Após o número total de rodadas, o jogo calcula um score final e apresenta o ranking
 
 
-# 🌳 Arquitetura
+#  Arquitetura
 
 ```
 PROJETO-REFATORACAO-DO-STARTUP-GAME-main/
@@ -85,6 +85,6 @@ https://github.com/user-attachments/assets/0e9f8733-cc2b-4401-810b-bc71a4b15fb8
 
 # 👩‍💻 Autora
 
-Lais De Paula Carneiro
+- Lais De Paula Carneiro - 10418061
 
 
