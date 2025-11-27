@@ -1,4 +1,4 @@
-# 🎮 PROJETO: REFATORAÇÃO DO STARTUP GAME 🎮 
+# 🎮 PROJETO: REFATORAÇÃO DO STARTUP GAME 
 
 O Startup Game é uma simulação em turnos (rodadas) onde cada usuário gerencia uma startup. Em cada
 rodada, os jogadores podem tomar até N decisões (configurável) dentre opções como Marketing, Equipe,
@@ -72,6 +72,9 @@ Relatório Final
 
 No encerramento do jogo, a aplicação gera um arquivo CSV (historico_[NomeStartup].csv) contendo o histórico detalhado de todas as ações e os valores da Startup ao longo do tempo. Este arquivo será salvo no diretório de execução.
 
+# 👩‍💻 Autora
+
+Lais De Paula Carneiro
 
 
 
